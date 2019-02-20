@@ -10,7 +10,7 @@
 
     </head>
     <body>
-        <header class="main_header">
+        <header class="main_header container">
             <div class="content">
                 <h1 class="main_header_logo">WS - Design Design Responsivo</h1>
 
