@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <title>WS - RWD: Layout Fluído</title>
 
-        <link rel="stylesheet" href="style.css"/>
+       <link rel="stylesheet" href="style.css"/>
         <link rel="shortcut icon" href="img/favicon.png"/>
         <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
 
@@ -22,6 +22,7 @@
             </div>
 
             <div class="main_header_menu">
+                <div class="content">
                 <ul>
                     <li><a href="index.php" title="Home">Home</a></li>
                     <li><a href="index.php" title="Artigos">Artigos</a></li>
@@ -30,6 +31,7 @@
                     <li><a href="index.php" title="Fale Conosco">Contato</a></li>
                 </ul>
                 <div class="clear"></div>
+                </div>
             </div>
         </header>        
 
